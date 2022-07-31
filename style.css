@@ -4,13 +4,15 @@ margin: 0;
 }
 
 header {
-
+background: url(images/fon.png) no-repeat center center; 
 }
+
 h1 {
 font-family: 'Square Peg', cursive;
 font-size: 100px;
 color: #40495D;
 text-align: center;
+margin: 0 0 30px 0;
 }
 img {
 	width: 300px;
@@ -105,7 +107,8 @@ a {
 	font-family: 'Oooh Baby', cursive;
 	font-size: 70px;
 	text-align: center;
-	margin: 10px 0;
+	margin: 0 0 50px 0;
+	padding: 0 0 50px 0;
 }
 
 /*BUTTON*/
